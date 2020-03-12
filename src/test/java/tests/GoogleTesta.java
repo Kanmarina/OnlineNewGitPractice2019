@@ -1,6 +1,5 @@
 package tests;
 
 public class GoogleTesta {
-  //this is comment mine
-  //comment new
+  //my comment
 }
