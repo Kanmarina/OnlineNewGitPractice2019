@@ -6,4 +6,8 @@ Tesla
 Mercedes 5500
 Kia Optima
 Lexus GX470
+<<<<<<< HEAD
 Honda Civic
+=======
+Subaru WRX STI
+>>>>>>> d772f1e23b7c204ea47d39bdaa7ab47facfbacd0
