@@ -3,3 +3,4 @@ apple
 mango
 dragon fruit
 kiwi
+pear
